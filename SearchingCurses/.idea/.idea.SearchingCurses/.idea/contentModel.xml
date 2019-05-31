@@ -6,16 +6,19 @@
     <e p="C:\Users\adminin\Desktop\git\SearchingCurses\SearchingCurses" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="SearchingCurses" t="IncludeRecursive">
+        <e p="Artist.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="LyricsOvhAnswer.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
+        <e p="profanities.txt" t="Include" />
+        <e p="ProfanityFinder.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="SearchingCurses.csproj" t="IncludeRecursive" />
-        <e p="SongLyrycs.cs" t="Include" />
+        <e p="Song.cs" t="Include" />
       </e>
       <e p="SearchingCurses.sln" t="IncludeFlat" />
     </e>

@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4b9f35c-d5c9-4c52-98ad-63b5271e4c64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SearchingCurses/ProfanityFinder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchingCurses/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchingCurses/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchingCurses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchingCurses/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SearchingCurses/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchingCurses/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchingCurses/SearchingCurses.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SearchingCurses/SearchingCurses.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchingCurses/SongLyrycs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchingCurses/Song.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,21 +16,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SearchingCurses/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+            <state relative-caret-position="187">
+              <caret line="35" column="73" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
               <folding>
-                <marker date="1558696278078" expanded="true" signature="6:170" ph="..." />
-                <marker date="1558696278078" expanded="true" signature="197:1481" ph="{...}" />
-                <marker date="1558696278078" expanded="true" signature="217:645" ph="{...}" />
-                <marker date="1558696278078" expanded="true" signature="263:639" ph="{...}" />
-                <marker date="1558696278078" expanded="true" signature="681:1479" ph="{...}" />
-                <marker date="1558696278078" expanded="true" signature="764:1082" ph="{...}" />
-                <marker date="1558696278078" expanded="true" signature="1126:1264" ph="{...}" />
-                <marker date="1558696278078" expanded="true" signature="1327:1473" ph="{...}" />
+                <marker date="1559301021055" expanded="true" signature="6:47" ph="..." />
+                <marker date="1559301021055" expanded="true" signature="74:1014" ph="{...}" />
+                <marker date="1559301021055" expanded="true" signature="94:458" ph="{...}" />
+                <marker date="1559301021055" expanded="true" signature="128:452" ph="{...}" />
+                <marker date="1559301021055" expanded="true" signature="226:342" ph="{...}" />
+                <marker date="1559301021055" expanded="true" signature="477:1012" ph="{...}" />
+                <marker date="1559301021055" expanded="true" signature="583:624" ph="{...}" />
+                <marker date="1559301021055" expanded="true" signature="667:1006" ph="{...}" />
+                <marker date="1559301021055" expanded="true" signature="773:996" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SearchingCurses/ProfanityFinder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+              <folding>
+                <marker date="1559298620834" expanded="false" signature="6:121" ph="..." />
+                <marker date="1559298620834" expanded="true" signature="149:2186" ph="{...}" />
+                <marker date="1559298620834" expanded="true" signature="177:2184" ph="{...}" />
+                <marker date="1559298620834" expanded="true" signature="240:546" ph="{...}" />
+                <marker date="1559298620834" expanded="true" signature="591:720" ph="{...}" />
+                <marker date="1559298620834" expanded="true" signature="768:991" ph="{...}" />
+                <marker date="1559298620834" expanded="true" signature="1063:1382" ph="{...}" />
+                <marker date="1559298620834" expanded="true" signature="1163:1346" ph="{...}" />
+                <marker date="1559298620834" expanded="true" signature="1442:1558" ph="{...}" />
+                <marker date="1559298620834" expanded="true" signature="1622:1763" ph="{...}" />
+                <marker date="1559298620834" expanded="true" signature="1817:2178" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -44,29 +72,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SearchingCurses/SongLyrycs.cs">
+        <entry file="file://$PROJECT_DIR$/SearchingCurses/Song.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            <state relative-caret-position="60">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
               <folding>
-                <marker date="1558694805034" expanded="false" signature="6:54" ph="..." />
-                <marker date="1558694805034" expanded="true" signature="81:635" ph="{...}" />
-                <marker date="1558694805034" expanded="true" signature="104:633" ph="{...}" />
-                <marker date="1558694805034" expanded="true" signature="255:627" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SearchingCurses/Properties/AssemblyInfo.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1558691727302" expanded="true" signature="6:62" ph="..." />
-                <marker date="1558691727302" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
-                <marker date="1558691727302" expanded="true" signature="568:778" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
-                <marker date="1558691727302" expanded="true" signature="953:1280" ph="/* Version information for an assembly consists of the following four values: ... */" />
+                <marker date="1559298620834" expanded="false" signature="6:54" ph="..." />
+                <marker date="1559298620834" expanded="true" signature="81:623" ph="{...}" />
+                <marker date="1559298620834" expanded="true" signature="98:621" ph="{...}" />
+                <marker date="1559298620834" expanded="true" signature="243:615" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -78,24 +92,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SearchingCurses/ProfanityFinder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchingCurses/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchingCurses/LyricsOvhAnswer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchingCurses/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SearchingCurses/SongLyrycs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchingCurses/Song.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SearchingCurses/SongLyrycs.cs" />
+        <option value="$PROJECT_DIR$/SearchingCurses/ProfanityFinder.cs" />
+        <option value="$PROJECT_DIR$/SearchingCurses/Song.cs" />
         <option value="$PROJECT_DIR$/SearchingCurses/Program.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="240" />
-    <option name="y" value="126" />
-    <option name="width" value="1440" />
-    <option name="height" value="765" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -105,20 +122,6 @@
       <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SearchingCurses" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SearchingCurses" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="SearchingCurses" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
     </panes>
@@ -127,9 +130,10 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SearchingCurses/SongLyrycs.cs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SearchingCurses/profanities.txt" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,11 +178,13 @@
       <option name="presentableId" value="Default" />
       <updated>1558691930209</updated>
       <workItem from="1558691931604" duration="4703000" />
+      <workItem from="1559284429960" duration="7795000" />
+      <workItem from="1559298940406" duration="2119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4703000" />
+    <option name="totallyTimeSpent" value="14617000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -190,40 +196,39 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="720" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.12155592" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06639676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" weight="0.32871974" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Build" weight="0.32766616" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38794437" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.19783616" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44809687" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.19550173" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32871974" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32698962" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SearchingCurses/Properties/AssemblyInfo.cs">
@@ -238,6 +243,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SearchingCurses/profanities.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchingCurses/Song.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <marker date="1559298620834" expanded="false" signature="6:54" ph="..." />
+            <marker date="1559298620834" expanded="true" signature="81:623" ph="{...}" />
+            <marker date="1559298620834" expanded="true" signature="98:621" ph="{...}" />
+            <marker date="1559298620834" expanded="true" signature="243:615" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SearchingCurses/LyricsOvhAnswer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -248,32 +269,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SearchingCurses/SongLyrycs.cs">
+    <entry file="file://$PROJECT_DIR$/SearchingCurses/ProfanityFinder.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="30">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding>
-            <marker date="1558694805034" expanded="false" signature="6:54" ph="..." />
-            <marker date="1558694805034" expanded="true" signature="81:635" ph="{...}" />
-            <marker date="1558694805034" expanded="true" signature="104:633" ph="{...}" />
-            <marker date="1558694805034" expanded="true" signature="255:627" ph="{...}" />
+            <marker date="1559298620834" expanded="false" signature="6:121" ph="..." />
+            <marker date="1559298620834" expanded="true" signature="149:2186" ph="{...}" />
+            <marker date="1559298620834" expanded="true" signature="177:2184" ph="{...}" />
+            <marker date="1559298620834" expanded="true" signature="240:546" ph="{...}" />
+            <marker date="1559298620834" expanded="true" signature="591:720" ph="{...}" />
+            <marker date="1559298620834" expanded="true" signature="768:991" ph="{...}" />
+            <marker date="1559298620834" expanded="true" signature="1063:1382" ph="{...}" />
+            <marker date="1559298620834" expanded="true" signature="1163:1346" ph="{...}" />
+            <marker date="1559298620834" expanded="true" signature="1442:1558" ph="{...}" />
+            <marker date="1559298620834" expanded="true" signature="1622:1763" ph="{...}" />
+            <marker date="1559298620834" expanded="true" signature="1817:2178" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SearchingCurses/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+        <state relative-caret-position="187">
+          <caret line="35" column="73" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
           <folding>
-            <marker date="1558696278078" expanded="true" signature="6:170" ph="..." />
-            <marker date="1558696278078" expanded="true" signature="197:1481" ph="{...}" />
-            <marker date="1558696278078" expanded="true" signature="217:645" ph="{...}" />
-            <marker date="1558696278078" expanded="true" signature="263:639" ph="{...}" />
-            <marker date="1558696278078" expanded="true" signature="681:1479" ph="{...}" />
-            <marker date="1558696278078" expanded="true" signature="764:1082" ph="{...}" />
-            <marker date="1558696278078" expanded="true" signature="1126:1264" ph="{...}" />
-            <marker date="1558696278078" expanded="true" signature="1327:1473" ph="{...}" />
+            <marker date="1559301021055" expanded="true" signature="6:47" ph="..." />
+            <marker date="1559301021055" expanded="true" signature="74:1014" ph="{...}" />
+            <marker date="1559301021055" expanded="true" signature="94:458" ph="{...}" />
+            <marker date="1559301021055" expanded="true" signature="128:452" ph="{...}" />
+            <marker date="1559301021055" expanded="true" signature="226:342" ph="{...}" />
+            <marker date="1559301021055" expanded="true" signature="477:1012" ph="{...}" />
+            <marker date="1559301021055" expanded="true" signature="583:624" ph="{...}" />
+            <marker date="1559301021055" expanded="true" signature="667:1006" ph="{...}" />
+            <marker date="1559301021055" expanded="true" signature="773:996" ph="{...}" />
           </folding>
         </state>
       </provider>

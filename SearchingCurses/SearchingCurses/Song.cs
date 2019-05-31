@@ -4,13 +4,13 @@ using System.Net;
 
 namespace SearchingCurses
 {
-    class SongLyrycs
+    class Song
     {
         public string artist;
         public string title;
         public string lyrics;
 
-        public SongLyrycs(string artist, string title)
+        public Song(string artist, string title)
         {
             var browser = new WebClient();
             var url = "https://api.lyrics.ovh/v1/" + artist + "/" + title;
