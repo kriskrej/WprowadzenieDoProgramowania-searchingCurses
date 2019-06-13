@@ -6,18 +6,29 @@ namespace SearchingCurses {
         public string name;
         public List<string> songTitles;
 
+        public int wordCount;
+        public int swearCount;
+
         public Artist(string name) {
             this.name = name;
         }
 
-        public void ShowProfanityStats() {
+        public void CalculateSwearAndWordCount() {
             var profanityFinder = new ProfanityFinder();
 
+            wordCount = 0;
+            swearCount = 0;
+            
             foreach (var title in songTitles) {
                 var song = new Song(name, title);
-                var profanitiesAmount = profanityFinder.CountBadWords(song.lyrics);
-                Console.WriteLine(song.title + ": " + profanitiesAmount);
+                swearCount += profanityFinder.CountBadWords(song.lyrics);
+                wordCount += song.CountWords();
             }
+        }
+
+        public void DisplayStatistics() {
+            int profanityIndex = wordCount / swearCount;
+            Console.WriteLine("Dla artysty: " + name + " co " + profanityIndex + " słowo to przekleństwo.");
         }
     }
 }

@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
+    <e p="C:\Users\adminin\.Rider2019.1\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\adminin\.Rider2019.1\config\extensions" t="IncludeRecursive" />
     <e p="C:\Users\adminin\.Rider2019.1\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\adminin\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_SearchingCurses.385936136.00" t="ExcludeRecursive" />
     <e p="C:\Users\adminin\Desktop\git\SearchingCurses\SearchingCurses" t="IncludeFlat">
-      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive">
+        <e p="SQLite.3.13.0\runtimes\win7-x64\native\sqlite3.dll" t="Include" />
+        <e p="SQLite.3.13.0\runtimes\win7-x86\native\sqlite3.dll" t="Include" />
+      </e>
       <e p="SearchingCurses" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
         <e p="Artist.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="LyricsOvhAnswer.cs" t="Include" />
@@ -19,6 +25,8 @@
         </e>
         <e p="SearchingCurses.csproj" t="IncludeRecursive" />
         <e p="Song.cs" t="Include" />
+        <e p="x64" t="Include" />
+        <e p="x86" t="Include" />
       </e>
       <e p="SearchingCurses.sln" t="IncludeFlat" />
     </e>

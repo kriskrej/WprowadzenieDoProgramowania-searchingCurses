@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4b9f35c-d5c9-4c52-98ad-63b5271e4c64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SearchingCurses/ProfanityFinder.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchingCurses/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchingCurses/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchingCurses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchingCurses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchingCurses/Artist.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchingCurses/Artist.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SearchingCurses/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchingCurses/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SearchingCurses/SearchingCurses.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SearchingCurses/SearchingCurses.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchingCurses/SongLyrycs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchingCurses/Song.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchingCurses/Song.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchingCurses/Song.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchingCurses/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/SearchingCurses/packages.config" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,23 +16,107 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - WebCache.sqlite" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - WebCache.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - WebCache.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - WebCache.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SearchingCurses/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="45">
               <caret line="35" column="73" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
               <folding>
-                <marker date="1559301021055" expanded="true" signature="6:47" ph="..." />
-                <marker date="1559301021055" expanded="true" signature="74:1014" ph="{...}" />
-                <marker date="1559301021055" expanded="true" signature="94:458" ph="{...}" />
-                <marker date="1559301021055" expanded="true" signature="128:452" ph="{...}" />
-                <marker date="1559301021055" expanded="true" signature="226:342" ph="{...}" />
-                <marker date="1559301021055" expanded="true" signature="477:1012" ph="{...}" />
-                <marker date="1559301021055" expanded="true" signature="583:624" ph="{...}" />
-                <marker date="1559301021055" expanded="true" signature="667:1006" ph="{...}" />
-                <marker date="1559301021055" expanded="true" signature="773:996" ph="{...}" />
+                <marker date="1559903951071" expanded="true" signature="6:92" ph="..." />
+                <marker date="1559903951071" expanded="true" signature="120:1342" ph="{...}" />
+                <marker date="1559903951071" expanded="true" signature="140:658" ph="{...}" />
+                <marker date="1559903951071" expanded="true" signature="169:652" ph="{...}" />
+                <marker date="1559903951071" expanded="true" signature="295:601" ph="/* var eminem = new Artist(&quot;Eminem&quot;); ... */" />
+                <marker date="1559903951071" expanded="true" signature="679:1340" ph="{...}" />
+                <marker date="1559903951071" expanded="true" signature="744:865" ph="{...}" />
+                <marker date="1559903951071" expanded="true" signature="924:1334" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D52F09E2-AA2F-4A75-93C5-88778BA249EA/cb/b71ad380/SQLiteCommand.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="288" column="8" selection-start-line="288" selection-start-column="8" selection-end-line="288" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://bea41e58-c502-443c-acff-3a4634556637/schema/main/table/sqlite_master">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="003e991c-d251-44d2-81df-04248990a717">
+              <filtering />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="das://bea41e58-c502-443c-acff-3a4634556637/schema/main/table/cache">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="003e991c-d251-44d2-81df-04248990a717">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <column-attributes>
+                <column name="rowid" enabled="false" position="-1" />
+              </column-attributes>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SearchingCurses/Artist.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="30" column="105" selection-start-line="30" selection-start-column="105" selection-end-line="30" selection-end-column="105" />
+              <folding>
+                <marker date="1559310725674" expanded="false" signature="6:47" ph="..." />
+                <marker date="1559310725674" expanded="true" signature="75:952" ph="{...}" />
+                <marker date="1559310725674" expanded="true" signature="94:950" ph="{...}" />
+                <marker date="1559310725674" expanded="true" signature="262:303" ph="{...}" />
+                <marker date="1559310725674" expanded="true" signature="354:725" ph="{...}" />
+                <marker date="1559310725674" expanded="true" signature="528:715" ph="{...}" />
+                <marker date="1559310725674" expanded="true" signature="767:944" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -40,8 +125,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SearchingCurses/ProfanityFinder.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="330">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding>
                 <marker date="1559298620834" expanded="false" signature="6:121" ph="..." />
                 <marker date="1559298620834" expanded="true" signature="149:2186" ph="{...}" />
@@ -74,13 +159,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SearchingCurses/Song.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            <state relative-caret-position="195">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
               <folding>
-                <marker date="1559298620834" expanded="false" signature="6:54" ph="..." />
-                <marker date="1559298620834" expanded="true" signature="81:623" ph="{...}" />
-                <marker date="1559298620834" expanded="true" signature="98:621" ph="{...}" />
-                <marker date="1559298620834" expanded="true" signature="243:615" ph="{...}" />
+                <marker date="1559310847951" expanded="false" signature="6:54" ph="..." />
+                <marker date="1559310847951" expanded="true" signature="82:820" ph="{...}" />
+                <marker date="1559310847951" expanded="true" signature="99:818" ph="{...}" />
+                <marker date="1559310847951" expanded="true" signature="240:669" ph="{...}" />
+                <marker date="1559310847951" expanded="true" signature="703:812" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -92,19 +178,29 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SearchingCurses/Artist.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchingCurses/ProfanityFinder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchingCurses/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchingCurses/LyricsOvhAnswer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchingCurses/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchingCurses/Song.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D52F09E2-AA2F-4A75-93C5-88778BA249EA/cb/b71ad380/SQLiteCommand.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SearchingCurses/SongLyrycs.cs" />
         <option value="$PROJECT_DIR$/SearchingCurses/ProfanityFinder.cs" />
+        <option value="$PROJECT_DIR$/SearchingCurses/Artist.cs" />
         <option value="$PROJECT_DIR$/SearchingCurses/Song.cs" />
         <option value="$PROJECT_DIR$/SearchingCurses/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.SearchingCurses/.idea/dataSources.xml" />
       </list>
     </option>
   </component>
@@ -112,25 +208,27 @@
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="1944" />
-    <option name="height" value="1044" />
+    <option name="height" value="1104" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SearchingCurses/profanities.txt" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebCache.sqlite" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
@@ -180,11 +278,13 @@
       <workItem from="1558691931604" duration="4703000" />
       <workItem from="1559284429960" duration="7795000" />
       <workItem from="1559298940406" duration="2119000" />
+      <workItem from="1559308860031" duration="4894000" />
+      <workItem from="1559901263920" duration="3209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14617000" />
+    <option name="totallyTimeSpent" value="22720000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -197,14 +297,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06639676" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22753036" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44809687" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.19550173" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42906573" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3529412" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -217,11 +318,12 @@
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="15" weight="0.32698962" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32871974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info active="true" anchor="right" id="Database" order="4" visible="true" weight="0.14008097" />
       <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
@@ -246,33 +348,32 @@
     <entry file="file://$PROJECT_DIR$/SearchingCurses/profanities.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SearchingCurses/Song.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          <folding>
-            <marker date="1559298620834" expanded="false" signature="6:54" ph="..." />
-            <marker date="1559298620834" expanded="true" signature="81:623" ph="{...}" />
-            <marker date="1559298620834" expanded="true" signature="98:621" ph="{...}" />
-            <marker date="1559298620834" expanded="true" signature="243:615" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/bea41e58-c502-443c-acff-3a4634556637/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SearchingCurses/LyricsOvhAnswer.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/83cc4ee2-2764-4282-8611-289d6cdcfbe7/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchingCurses/Artist.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="375">
+          <caret line="30" column="105" selection-start-line="30" selection-start-column="105" selection-end-line="30" selection-end-column="105" />
           <folding>
-            <marker date="1558692321693" expanded="true" signature="25:104" ph="{...}" />
-            <marker date="1558692321693" expanded="true" signature="60:102" ph="{...}" />
+            <marker date="1559310725674" expanded="false" signature="6:47" ph="..." />
+            <marker date="1559310725674" expanded="true" signature="75:952" ph="{...}" />
+            <marker date="1559310725674" expanded="true" signature="94:950" ph="{...}" />
+            <marker date="1559310725674" expanded="true" signature="262:303" ph="{...}" />
+            <marker date="1559310725674" expanded="true" signature="354:725" ph="{...}" />
+            <marker date="1559310725674" expanded="true" signature="528:715" ph="{...}" />
+            <marker date="1559310725674" expanded="true" signature="767:944" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SearchingCurses/ProfanityFinder.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="330">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding>
             <marker date="1559298620834" expanded="false" signature="6:121" ph="..." />
             <marker date="1559298620834" expanded="true" signature="149:2186" ph="{...}" />
@@ -289,21 +390,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SearchingCurses/LyricsOvhAnswer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1558692321693" expanded="true" signature="25:104" ph="{...}" />
+            <marker date="1558692321693" expanded="true" signature="60:102" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchingCurses/Song.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <marker date="1559310847951" expanded="false" signature="6:54" ph="..." />
+            <marker date="1559310847951" expanded="true" signature="82:820" ph="{...}" />
+            <marker date="1559310847951" expanded="true" signature="99:818" ph="{...}" />
+            <marker date="1559310847951" expanded="true" signature="240:669" ph="{...}" />
+            <marker date="1559310847951" expanded="true" signature="703:812" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://bea41e58-c502-443c-acff-3a4634556637/schema/main/table/sqlite_master">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="003e991c-d251-44d2-81df-04248990a717">
+          <filtering />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D52F09E2-AA2F-4A75-93C5-88778BA249EA/cb/b71ad380/SQLiteCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="288" column="8" selection-start-line="288" selection-start-column="8" selection-end-line="288" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SearchingCurses/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="45">
           <caret line="35" column="73" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
           <folding>
-            <marker date="1559301021055" expanded="true" signature="6:47" ph="..." />
-            <marker date="1559301021055" expanded="true" signature="74:1014" ph="{...}" />
-            <marker date="1559301021055" expanded="true" signature="94:458" ph="{...}" />
-            <marker date="1559301021055" expanded="true" signature="128:452" ph="{...}" />
-            <marker date="1559301021055" expanded="true" signature="226:342" ph="{...}" />
-            <marker date="1559301021055" expanded="true" signature="477:1012" ph="{...}" />
-            <marker date="1559301021055" expanded="true" signature="583:624" ph="{...}" />
-            <marker date="1559301021055" expanded="true" signature="667:1006" ph="{...}" />
-            <marker date="1559301021055" expanded="true" signature="773:996" ph="{...}" />
+            <marker date="1559903951071" expanded="true" signature="6:92" ph="..." />
+            <marker date="1559903951071" expanded="true" signature="120:1342" ph="{...}" />
+            <marker date="1559903951071" expanded="true" signature="140:658" ph="{...}" />
+            <marker date="1559903951071" expanded="true" signature="169:652" ph="{...}" />
+            <marker date="1559903951071" expanded="true" signature="295:601" ph="/* var eminem = new Artist(&quot;Eminem&quot;); ... */" />
+            <marker date="1559903951071" expanded="true" signature="679:1340" ph="{...}" />
+            <marker date="1559903951071" expanded="true" signature="744:865" ph="{...}" />
+            <marker date="1559903951071" expanded="true" signature="924:1334" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://bea41e58-c502-443c-acff-3a4634556637/schema/main/table/cache">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="003e991c-d251-44d2-81df-04248990a717">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <column-attributes>
+            <column name="rowid" enabled="false" position="-1" />
+          </column-attributes>
         </state>
       </provider>
     </entry>
